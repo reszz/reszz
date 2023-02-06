@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @reszz
-- 👀 I’m interested in web design, cyber security, and data science, 
-- 🌱 I’m currently learning web design and java
+- 👋 Hi, I’m Salira Restu Gusti
+- 👀 I’m interested in web design, DevOps,  
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me instagram @salirares
 
 <!---
 reszz/reszz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
